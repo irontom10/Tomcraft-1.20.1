@@ -1,0 +1,13 @@
+filename = 'azurelib-neo-1.20.1-2.0.34.jar'
+name = 'AzureLib'
+side = 'both'
+
+[download]
+hash = 'a3dd32676d973356b82d943727032db0ed4755719172b1f55a8c3403e1bd59387f9805718de26e50ed702df1ce5945ede0cb1888d78fc78c028ce545dd41743d'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/7zlUOZvb/versions/QuenpSCi/azurelib-neo-1.20.1-2.0.34.jar'
+
+[update.modrinth]
+mod-id = '7zlUOZvb'
+version = 'QuenpSCi'

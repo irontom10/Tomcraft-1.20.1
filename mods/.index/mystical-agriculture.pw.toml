@@ -1,0 +1,13 @@
+filename = 'MysticalAgriculture-1.20.1-7.0.12.jar'
+name = 'Mystical Agriculture'
+side = 'both'
+
+[download]
+hash = 'fc7cb30314fab2c79bbedec36afb27ff5cf5c36b'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5587909
+project-id = 246640

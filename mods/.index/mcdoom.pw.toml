@@ -1,0 +1,13 @@
+filename = 'doom-neo-1.20.1-7.0.13.jar'
+name = 'MCDoom'
+side = 'both'
+
+[download]
+hash = '435fee3193759978b5a8bf47461bc60b0c3b388f7e7de94f7761d4fa47e35f764bbea252b68501e8a0b28fb59f33ac6ac27cb0c814f585c5c0366fb298509f29'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/Mfo4FiDF/versions/IgELzust/doom-neo-1.20.1-7.0.13.jar'
+
+[update.modrinth]
+mod-id = 'Mfo4FiDF'
+version = 'IgELzust'

@@ -1,0 +1,4 @@
+#Sat Sep 07 23:52:06 EDT 2024
+shadowDistance=512.0
+shadowMapResolution=3072
+BLOOM=false

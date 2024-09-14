@@ -1,0 +1,13 @@
+filename = 'l2library-2.4.28.jar'
+name = 'L2 Library'
+side = 'both'
+
+[download]
+hash = 'baa04c50cba52d55181e54ad0ddd19e717abdcdfa8fc805670dd6d26ce9f1436916995c8982e08e214bedf19352e9ff51bf374f23223e6ea57207a697b33b36f'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/4Vh3BQ3F/versions/kE0Y2Dbf/l2library-2.4.28.jar'
+
+[update.modrinth]
+mod-id = '4Vh3BQ3F'
+version = 'kE0Y2Dbf'

@@ -89,6 +89,10 @@
 		#Maps Mekanism item stack to pigment recipes. (Pigment Extracting)
 		enabled = true
 
+	[CraftingMapper.DraconicEvolutionFusionMapper]
+		#ProjectE-Integration Recipe Mapper for Draconic Evolution Fusion Mapper. Required Mods: [draconicevolution]
+		enabled = true
+
 	[CraftingMapper.MekItemStackGasToItemStack]
 		#Maps Mekanism Machine recipes that go from item, gas to item. (Compressing, Purifying, Injecting)
 		enabled = true

@@ -1,0 +1,16 @@
+filename = 'wwta-1.20.1-1.0.jar'
+name = 'When Was That Again'
+side = 'client'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20', '1.20-Snapshot', '1.20.1', '1.20.2', '1.20.2-Snapshot', '1.20.3-Snapshot' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '2f8a90f3379a52ecc4027fd42534596ed476b83f'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4828736
+project-id = 397184

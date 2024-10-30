@@ -1,0 +1,16 @@
+filename = 'Stargate Journey-1.20.1-0.6.33.jar'
+name = 'Stargate Journey'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'beta'
+
+[download]
+hash = '8d9d3187bb9c6d316a201e8bef3c20719776b307c79966d69980aceb2ac09727ee46cf6e481be016e09a56f19aef99d50446e39d64a5e39e389b00629c8423de'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/qlc8dxM6/versions/e9KlKQZv/Stargate Journey-1.20.1-0.6.33.jar'
+
+[update.modrinth]
+mod-id = 'qlc8dxM6'
+version = 'e9KlKQZv'

@@ -69,7 +69,7 @@
 
 	[items.levitationstaff]
 		energyUse = 1
-		maxEnergy = 1000
+		maxEnergy = 10000
 
 	[items.travelling]
 		#Range: 4 ~ 512

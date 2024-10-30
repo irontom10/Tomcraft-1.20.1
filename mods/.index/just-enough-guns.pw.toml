@@ -1,0 +1,16 @@
+filename = 'JustEnoughGuns-0.8.0-1.20.1.jar'
+name = 'Just Enough Guns'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20', '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'efd390371c725bcf03a0a75151bcd1d7cdca0dd5'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5855476
+project-id = 820727

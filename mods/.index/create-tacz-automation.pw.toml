@@ -1,0 +1,16 @@
+filename = 'createtaczauto-1.2.2-forge-1.20.1.jar'
+name = 'Create: TaCZ Automation'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'a61e38af85ff748c21c94aa1420c1bb58ec3e9db'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5854761
+project-id = 1084197

@@ -1,0 +1,16 @@
+filename = 'ProjectRed-1.20.1-4.20.0-beta+5-illumination.jar'
+name = 'Project Red - Illumination'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'beta'
+
+[download]
+hash = 'ef495dc1d053ed66a0fd0ee8b0c4adbfd536b859'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5713765
+project-id = 229046

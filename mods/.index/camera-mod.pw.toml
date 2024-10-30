@@ -1,0 +1,16 @@
+filename = 'camera-forge-1.20.1-1.0.14.jar'
+name = 'Camera Mod'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'bfaf0be020ac3798070f50a3d820ad82228ff9ce'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5634266
+project-id = 289310

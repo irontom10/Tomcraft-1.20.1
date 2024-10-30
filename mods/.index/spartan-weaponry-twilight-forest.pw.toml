@@ -1,0 +1,16 @@
+filename = 'spartantwilight-1.20.1-3.1.0.jar'
+name = 'Spartan Weaponry: Twilight Forest'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge', 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'b494f73e3106ba98c4c529b648a2226e27b9b0f0'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5563778
+project-id = 533570

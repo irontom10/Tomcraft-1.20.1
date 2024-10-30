@@ -1,0 +1,16 @@
+filename = 'ad_astra_dh-1.1.0-forge-1.20.1.jar'
+name = 'Ad Astra : Distant Horizons'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20', '1.20.1' ]
+x-prismlauncher-release-type = 'beta'
+
+[download]
+hash = 'a52a37079dace1f6426940a0305cbb707296f614'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5432260
+project-id = 1035702

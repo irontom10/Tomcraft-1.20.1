@@ -1,0 +1,16 @@
+filename = 'DivineRPG-1.10.7.5.jar'
+name = 'DivineRPG'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge', 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'a292787ae2c873c223021deb3a0622b05c2136873e22fccf19cecb849bde99b6a97abd2802c4d778ea18902a6c86235364e6d3115ae9f27b9b8d941efa2f9c26'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/F3kLpGw6/versions/iPO1zRlr/DivineRPG-1.10.7.5.jar'
+
+[update.modrinth]
+mod-id = 'F3kLpGw6'
+version = 'iPO1zRlr'

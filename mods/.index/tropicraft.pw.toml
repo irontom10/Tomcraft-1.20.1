@@ -1,0 +1,16 @@
+filename = 'Tropicraft-9.6.3.jar'
+name = 'Tropicraft'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'f0fb2074976f0e201f1119fdde7e20914cd06712'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4811116
+project-id = 254794

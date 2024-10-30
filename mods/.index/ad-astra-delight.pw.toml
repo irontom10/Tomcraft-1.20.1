@@ -1,0 +1,16 @@
+filename = 'adastradelight-1.0.2.1-1.20.1.jar'
+name = 'Ad Astra Delight'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'ebd2552cbf188be06a79b3eca7dd870e76045bf8'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5680772
+project-id = 1075745

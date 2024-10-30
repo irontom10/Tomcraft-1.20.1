@@ -1,0 +1,16 @@
+filename = 'shield_overhaul-1.0.0.jar'
+name = 'Shield Overhaul [Fabric/Forge]'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge', 'fabric', 'quilt' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '5722dfe6d99f182caff66b67e0c6138838cf170f'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5775194
+project-id = 637870

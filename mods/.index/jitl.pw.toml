@@ -1,0 +1,16 @@
+filename = 'JITL - 1.20.1 - 2.2.jar'
+name = 'Journey Into The Light'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20', '1.20.1', '1.20.2', '1.20.3', '1.20.4', '1.20.5', '1.20.6' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '1f165d3e59588b28869a213d6ebd7ba630c019664fb84378e5ca25b115c1cb82189e433844f66987dd9f6a3131903443c64ed54f450d2485f20fdaedfafeb78e'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/tnWvxgPP/versions/KB5uqc0B/JITL - 1.20.1 - 2.2.jar'
+
+[update.modrinth]
+mod-id = 'tnWvxgPP'
+version = 'KB5uqc0B'

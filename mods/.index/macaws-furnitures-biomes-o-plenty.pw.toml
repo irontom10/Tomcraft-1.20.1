@@ -1,0 +1,16 @@
+filename = 'mcwfurnituresbop-1.20-1.2.jar'
+name = "Macaw's Furnitures - Biomes O' Plenty"
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20', '1.20.1', '1.20.2', '1.20.3' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '07461b8c3038a9330d44c5cd1f0d80e6e46478a5'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5595825
+project-id = 683252

@@ -38,6 +38,11 @@
 			#If true, allows guns enchanted with Fire Starter to light and spread fires on blocks
 			setFireToBlocks = true
 
+	#Properties relating to cross-mod compatibilities
+	[common.compatibilities]
+		#When enabled, you'll need the "Marksman" enchantment enchanted for a backpack from backpacked mod to directly reload from the backpack.
+		backpackedNeedsEnchantment2ReloadFromBackpack = true
+
 	#Properties relating to network
 	[common.network]
 		#The distance players need to be within to be able to track new projectiles trails. Higher values means you can see projectiles from that start from further away.
@@ -58,19 +63,19 @@
 
 	#Properties relating to missiles
 	[common.missiles]
+		#If enabled, allows block removal on explosions
+		enableBlockRemoval = false
 		#The max distance which the explosion is effective to
 		#Range: 0.0 ~ 1.7976931348623157E308
 		explosionRadius = 5.0
-		#If enabled, allows block removal on explosions
-		enableBlockRemoval = false
 
 	#Properties relating to grenades
 	[common.grenades]
+		#If enabled, allows block removal on explosions
+		enableBlockRemoval = false
 		#The max distance which the explosion is effective to
 		#Range: 0.0 ~ 1.7976931348623157E308
 		explosionRadius = 5.0
-		#If enabled, allows block removal on explosions
-		enableBlockRemoval = false
 
 	#Properties relating to stun grenades
 	[common.stun_grenades]
@@ -131,9 +136,4 @@
 		#The amount of times a player has to shoot within the spread threshold before the maximum amount of spread is applied. Setting the value higher means it will take longer for the spread to be applied.
 		#Range: > 1
 		maxCount = 10
-
-	#Properties relating to cross-mod compatibilities
-	[common.compatibilities]
-		#When enabled, you'll need the "Marksman" enchantment enchanted for a backpack from backpacked mod to directly reload from the backpack.
-		backpackedNeedsEnchantment2ReloadFromBackpack = true
 

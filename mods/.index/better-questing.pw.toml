@@ -1,0 +1,16 @@
+filename = 'BetterQuesting-Forge-1.20.1-4.0.21.jar'
+name = 'Better Questing'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'e4af74cb291ff8624f346ea7709ae0f0f080aaaf'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5847814
+project-id = 238856

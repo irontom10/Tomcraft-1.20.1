@@ -1,6 +1,0 @@
-{
-  "allowMovement": {
-    "net.minecraft.client.gui.screens.ReceivingLevelScreen": true
-  },
-  "hideBackground": {}
-}

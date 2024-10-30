@@ -1,0 +1,16 @@
+filename = 'macawsroofsbop-1.20-1.1.jar'
+name = "Macaw's Roofs - Biomes O' Plenty"
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20', '1.20.1', '1.20.2', '1.20.3' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '4fa966027a2a2182682502b2166b617ad71fd6ed'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5563046
+project-id = 558344

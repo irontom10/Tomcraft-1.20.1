@@ -25,10 +25,12 @@
   },
   "render_settings": {
     "fog_type": "DEFAULT",
-    "fog_distance": 0,
-    "fog_start": 100,
+    "fog_distance": 33,
+    "fog_start": 0,
     "multi_dimension_fog_control": false,
-    "dimensionFogDistance": {},
+    "dimensionFogDistance": {
+      "minecraft:overworld": 0
+    },
     "light_updates": true,
     "item_frame": true,
     "armor_stand": true,

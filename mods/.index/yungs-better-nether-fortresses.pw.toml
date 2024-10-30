@@ -1,13 +1,16 @@
-filename = 'YungsBetterNetherFortresses-1.20-Forge-2.0.5.jar'
+filename = 'YungsBetterNetherFortresses-1.20-Forge-2.0.6.jar'
 name = "YUNG's Better Nether Fortresses"
-side = 'server'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20', '1.20.1' ]
+x-prismlauncher-release-type = 'release'
 
 [download]
-hash = '61f1340ee2d90383aa1519db6d66f94d5df76003bd85c1dcb1bb4f2db1caf66c9c8e6142f737a518341b07c7fd7fcd40849946143f5ff22818ecc4f1567a38aa'
+hash = 'bceefeaf84dffd7386a61118d6b1c6c2107e17e7a8f4340eff2c1f0234dba0e6d8f43903521d5a70334362ab6e4069788e5b29cf42d8ee9cd4f2a98feb64112b'
 hash-format = 'sha512'
 mode = 'url'
-url = 'https://cdn.modrinth.com/data/Z2mXHnxP/versions/vKRSJIfJ/YungsBetterNetherFortresses-1.20-Forge-2.0.5.jar'
+url = 'https://cdn.modrinth.com/data/Z2mXHnxP/versions/2nUEz0zq/YungsBetterNetherFortresses-1.20-Forge-2.0.6.jar'
 
 [update.modrinth]
 mod-id = 'Z2mXHnxP'
-version = 'vKRSJIfJ'
+version = '2nUEz0zq'

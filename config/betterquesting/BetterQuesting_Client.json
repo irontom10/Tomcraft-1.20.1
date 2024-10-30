@@ -1,6 +1,6 @@
 {
   "General": {
-    "GUI Theme": "betterquesting:dark",
+    "GUI Theme": "bq_standard:std_dark",
     "Use Bookmarks": true,
     "Show Notices": true,
     "Advanced Tooltips": false,
